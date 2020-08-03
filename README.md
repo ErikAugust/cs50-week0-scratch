@@ -10,6 +10,8 @@ Use the arrow keys to control the dolphin (Dolph).
 
 Collect as many fish ("fishy-fish") as you can.
 
+Play now at https://scratch.mit.edu/projects/415537800/
+
 
 ## Roadmap
 
